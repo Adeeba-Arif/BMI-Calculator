@@ -13,9 +13,6 @@ html{
     flex-direction: column;
     padding-top: 200px;
     padding-left: 40%;
-    /* height: 200px;
-    width: 200px;
-    box-shadow: 10px 10px 10px 10px grey; */
 }
 .input{
     padding-left: 40px;
