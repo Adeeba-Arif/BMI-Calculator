@@ -11,7 +11,7 @@ calculateBmi.onclick = function(){
         var weight = parseInt(input1);
         var height = parseInt(input2);
 
-        if(height === 0){
+        if(height === 0 ){
             output.textContent = "Error! Height cannot be zero";
         } else {
             var calculatedValue = weight / (height * height);
